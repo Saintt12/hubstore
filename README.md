@@ -1,2 +1,2 @@
 # hubstore
-I am shyam i am passionate in coding 
+My new repository 
